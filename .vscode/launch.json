@@ -1,0 +1,160 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ad_Pattern",
+            "request": "launch",
+            "mainClass": "Ad_Pattern",
+            "projectName": "Web Development_1c3aa0ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch Array",
+            "request": "launch",
+            "mainClass": "Array",
+            "projectName": "Web Development_1c3aa0ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arry",
+            "request": "launch",
+            "mainClass": "Arry",
+            "projectName": "Web Development_1c3aa0ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArryList",
+            "request": "launch",
+            "mainClass": "ArryList",
+            "projectName": "Web Development_1c3aa0ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch Backtracking",
+            "request": "launch",
+            "mainClass": "Backtracking",
+            "projectName": "Web Development_1c3aa0ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch Conditionalstatment",
+            "request": "launch",
+            "mainClass": "Conditionalstatment",
+            "projectName": "Web Development_1c3aa0ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo",
+            "request": "launch",
+            "mainClass": "Demo",
+            "projectName": "Web Development_1c3aa0ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch First",
+            "request": "launch",
+            "mainClass": "First",
+            "projectName": "Web Development_1c3aa0ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch Function",
+            "request": "launch",
+            "mainClass": "Function",
+            "projectName": "Web Development_1c3aa0ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch GFG",
+            "request": "launch",
+            "mainClass": "GFG",
+            "projectName": "Web Development_1c3aa0ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch Loops",
+            "request": "launch",
+            "mainClass": "Loops",
+            "projectName": "Web Development_1c3aa0ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch Quiz",
+            "request": "launch",
+            "mainClass": "Quiz",
+            "projectName": "Web Development_1c3aa0ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch Scan",
+            "request": "launch",
+            "mainClass": "Scan",
+            "projectName": "Web Development_1c3aa0ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch Variable",
+            "request": "launch",
+            "mainClass": "Variable",
+            "projectName": "Web Development_1c3aa0ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch atm",
+            "request": "launch",
+            "mainClass": "atm",
+            "projectName": "Web Development_1c3aa0ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch demo",
+            "request": "launch",
+            "mainClass": "demo",
+            "projectName": "Web Development_1c3aa0ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch pattern",
+            "request": "launch",
+            "mainClass": "pattern",
+            "projectName": "Web Development_1c3aa0ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch primeNum",
+            "request": "launch",
+            "mainClass": "primeNum",
+            "projectName": "Web Development_1c3aa0ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch runtimecode",
+            "request": "launch",
+            "mainClass": "runtimecode",
+            "projectName": "Web Development_1c3aa0ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch table",
+            "request": "launch",
+            "mainClass": "table",
+            "projectName": "Web Development_1c3aa0ab"
+        }
+    ]
+}
