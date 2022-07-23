@@ -1,0 +1,187 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    /* background-image: url("wallpaper.jpg"); */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment:scroll;
+    backface-visibility: visible;
+
+}
+header{
+    box-shadow: 0 1px 3px rgb(0 0 0/10%),0 5px rgb(0 0 0/6%), 0 0  5px rgb(0 0 0/7%);
+}
+.wraper{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around ;
+    width: 100%;
+    height: 13vh;
+    position: relative;
+    background-color: #efe9eb;
+}
+.temp{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+    position:static;
+    align-content: flex-start;
+    margin-left: 10px;
+}
+.logo img{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+}
+h1{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-weight: 200;
+}
+.search{
+    height: 51px;
+    width: 489px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* margin-left: 160px; */
+}
+.search img{
+    height: 31px;
+    width: 51px;
+    background-color: rgb(143, 143, 143);
+    border-bottom:2px solid #000;
+    /* border-top:2px solid #000; */
+    cursor: pointer;
+    border-top-right-radius: 12px;
+    border-bottom-right-radius:12px;
+}
+.search input{
+    height: 31px;
+    width: 489px;
+    justify-content: center;
+    /* margin: 150px; */
+    border-left: #fff;
+    border-right: #fff;
+    border-top: #fff;
+    border-bottom:2px solid #000;
+    /* border-top:2px solid #000; */
+    border-top-left-radius: 12px;
+    border-bottom-left-radius:12px;
+    cursor: text;
+    font-size: large;
+}
+.search img:hover{
+    background-color: rgb(63, 61, 61);
+    color:#fff;
+}
+input:hover{
+    background-color: rgb(255, 255, 255);
+    color:#fff;
+    font-size: large;
+    border-left: #fff;
+    border-right: #fff;
+    border-top: #fff;
+    border-bottom:2px solid #000;
+}
+.sec{
+    height: 50px;
+    width: 106px;
+    background-color: cornsilk;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    text-align: center;
+    font-weight: 700;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.sec:hover{
+    font-weight: 700;
+}
+.section{
+    height: 51px;
+    width: 85px;
+}
+
+.strip{
+    width: 1024px;
+    height: 35px;
+    display: flex;
+    margin: 0 auto;
+    margin-top: 10px;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #6a8694;
+}
+
+.strip button{
+    border: 1px solid ;
+    border-radius: 50px;
+    font-weight: 400;
+    line-height: 1.2;
+    margin:20px 20px ;
+    padding: 5px;
+    cursor: pointer;
+    color: rgb(0, 0, 0);
+    background-color: rgb(137, 179, 221);
+}
+.wrapper, .wrapper1, .wrapper2, .wrapper3{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-top: 21px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    justify-content: space-evenly;
+}
+.grid{
+    height: 280px;
+    width: 175px;
+    border-radius: 10px;
+    border: solid 2px rgb(153, 153, 153);
+    background-color: rgb(37, 37, 37);
+    text-align: center;
+    
+}
+.grid:hover{
+    background-color: rgb(30, 55, 71);
+    cursor: pointer;
+    transition: all 1s;
+    width: 300px;
+    height: 400px;
+}
+
+.grid img{
+    height: 190px;
+    width: 170px;
+    border-radius: 10px;
+}
+.grid img:hover{
+    height: 320px;
+    width: 295px;
+    border-radius: 8px;
+    transition: all 0.5s;
+}
+.grid p:hover{
+    color: #fff;
+    font-size: medium;
+}
+p{
+    color: #fff;
+    font-size: small;
+}
+footer{
+    bottom: 0;
+    height: 152px;
+    width: 100%;
+    background-color: #6a8694;
+    box-shadow: 0 1px 3px rgb(0 0 0/10%),0 5px rgb(0 0 0/6%), 0 0  5px rgb(0 0 0/7%);
+    border-top:5px solid  0 1px 3px rgb(0 0 0/10%),0 5px rgb(0 0 0/6%), 0 0  5px rgb(0 0 0/7%);
+}

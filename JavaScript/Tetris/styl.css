@@ -1,0 +1,26 @@
+body{
+    background-color: #131519;
+}
+h3{
+    border: none;
+    color: black;
+    background-color: yellow;
+    width: fit-content;
+    height: fit-content;
+    border-radius: 5px;
+    padding: 7px;
+}
+
+#star-button img{
+    width: 50px;
+    height: auto;
+    border-radius: 50%;
+    border: none;
+    background: #131519;
+}
+.top{
+    background-color: rgb(23, 24, 24);
+
+    display: flex;
+    justify-content: space-evenly;
+}
